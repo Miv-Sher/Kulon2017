@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\ba2a4ce64501b62abc54744b8aec98d91349a7ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05904522ad0e8308ba20764246f8d34c479a50ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\1388762a038a7ad1fa2e288f617957fd7cc63055\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e73be64ef3e56ecc035bd298d274136e2ad66d20">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee2d30d6fb3778131c122fc33678859b617835e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\67d54aca75f4a345818fa5bf08d1bedda08c60ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40da000641352b84f6ed477172e3fba19f103ca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\kulon\kulon_android_app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d39e84abca6ebdc41b65745cb7612ebf170dfe93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programms\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4abb6b2dd19c7832c779285504d3c0310ba8c7a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\e66639d7dc4946caf9b891b7077a5d4fb9e70b76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_881519ec2b3d5a748fae410719039a5035fbc420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6073052f70c80be8d02b4d049101d59a5cb18946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\5fff080245223154e2328be4848fc612b5b7fae9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b232aca01e63f41aafe4c1a008bfdab312aa9a73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\6c1ffb365d88ec95cb1c77e961f89072f097aca5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31bfe20c0321b195c5da534e0de9badd9a465feb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\95e25f79ff8d558dc527ca7423a312aa27000d47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_112be390d644f3c5ffb48ae148a76570a8573962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\e2183941859b9f6f457394e37124ba8931d974d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7e4173d7114a98171e6398393bac03b7b48cb04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\cca0f0d98bd82732f66be78329b896d09cff43d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00f1e27fc00bcddcff96a179c72ca700019a5542\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_17ebc94a7257153e002b3c1c492412c09a681511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\7da96eb94322cd91194cfe73c270d962d746390b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e03463f0613a7e017493e1212b6d9402659460a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\fc40d2282b8c19c7126788800d0f3d4d68623223\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9da38d0b98352aed036a8c2c3de6d231079a1ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\f5137af602240d694d4f5537b458a771c87ae1dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09a2492eab9be350cb3499e91418e56953365be6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\kulon\kulon_android_app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8a2c415c8bbfa3aaea61419de006122758d64c7">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_39d98cc9b183cf602c734fed53f055b5ef671cdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nessa\.android\build-cache\05d2075055699dbbb4ae3d9473ebad3c3c4b64cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Projects\kulon\kulon_android_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f93fab111f1f7bc0a41743237e2b0219f286838\classes.dex" />
+    </item>
+
+</items>

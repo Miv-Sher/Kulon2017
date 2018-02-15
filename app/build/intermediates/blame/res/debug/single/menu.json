@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottom_navigation_menu.xml",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    }
+]

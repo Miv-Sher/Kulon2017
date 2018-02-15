@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorite_black_48dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_a_photo_white_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorite_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_photo_library_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photo_library_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_photo_camera_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photo_camera_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_shopping_cart_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings_backup_restore_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_backup_restore_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_select_all_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_select_all_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_power_settings_new_black_24dp.png",
+        "source": "D:\\Projects\\kulon\\kulon_android_app\\app\\src\\main\\res\\drawable-xxhdpi\\ic_power_settings_new_black_24dp.png"
+    }
+]

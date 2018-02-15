@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:4:22-78
+uses-feature#android.hardware.camera
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:6:9-47
+application
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:9:5-48:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nessa\.android\build-cache\f5137af602240d694d4f5537b458a771c87ae1dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nessa\.android\build-cache\5fff080245223154e2328be4848fc612b5b7fae9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nessa\.android\build-cache\cca0f0d98bd82732f66be78329b896d09cff43d1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Nessa\.android\build-cache\95e25f79ff8d558dc527ca7423a312aa27000d47\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nessa\.android\build-cache\e2183941859b9f6f457394e37124ba8931d974d2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nessa\.android\build-cache\e66639d7dc4946caf9b891b7077a5d4fb9e70b76\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nessa\.android\build-cache\67d54aca75f4a345818fa5bf08d1bedda08c60ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nessa\.android\build-cache\7da96eb94322cd91194cfe73c270d962d746390b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nessa\.android\build-cache\ba2a4ce64501b62abc54744b8aec98d91349a7ff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nessa\.android\build-cache\05d2075055699dbbb4ae3d9473ebad3c3c4b64cd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Nessa\.android\build-cache\fc40d2282b8c19c7126788800d0f3d4d68623223\output\AndroidManifest.xml:11:5-13:38
+	android:label
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:11:9-43
+	android:largeHeap
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:13:9-33
+	android:theme
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:15:9-40
+activity#ru.jufy.myposh.activities.MainActivity
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:screenOrientation
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:17:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:24:27-74
+activity#ru.jufy.myposh.activities.SplashActivity
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:27:9-32:50
+	android:screenOrientation
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:30:13-58
+	android:exported
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:28:13-54
+activity#ru.jufy.myposh.activities.ConfirmPictureActivity
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:33:9-38:68
+	android:screenOrientation
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:35:13-65
+	android:exported
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:36:13-36
+	android:theme
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:34:13-62
+provider#android.support.v4.content.FileProvider
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:authorities
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:41:13-62
+	android:grantUriPermissions
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:43:13-47
+	android:exported
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:40:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:44:13-46:64
+	android:resource
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:46:17-51
+	android:name
+		ADDED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml:45:17-67
+uses-sdk
+INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.ogaclejapan.arclayout:library:1.1.0] C:\Users\Nessa\.android\build-cache\1388762a038a7ad1fa2e288f617957fd7cc63055\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nessa\.android\build-cache\f5137af602240d694d4f5537b458a771c87ae1dc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nessa\.android\build-cache\5fff080245223154e2328be4848fc612b5b7fae9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nessa\.android\build-cache\cca0f0d98bd82732f66be78329b896d09cff43d1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nessa\.android\build-cache\6c1ffb365d88ec95cb1c77e961f89072f097aca5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Nessa\.android\build-cache\95e25f79ff8d558dc527ca7423a312aa27000d47\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nessa\.android\build-cache\e2183941859b9f6f457394e37124ba8931d974d2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nessa\.android\build-cache\e66639d7dc4946caf9b891b7077a5d4fb9e70b76\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nessa\.android\build-cache\67d54aca75f4a345818fa5bf08d1bedda08c60ce\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nessa\.android\build-cache\7da96eb94322cd91194cfe73c270d962d746390b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nessa\.android\build-cache\ba2a4ce64501b62abc54744b8aec98d91349a7ff\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nessa\.android\build-cache\05d2075055699dbbb4ae3d9473ebad3c3c4b64cd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.mikhaellopez:circularimageview:3.0.2] C:\Users\Nessa\.android\build-cache\fc40d2282b8c19c7126788800d0f3d4d68623223\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\kulon\kulon_android_app\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nessa\.android\build-cache\f5137af602240d694d4f5537b458a771c87ae1dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nessa\.android\build-cache\5fff080245223154e2328be4848fc612b5b7fae9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nessa\.android\build-cache\cca0f0d98bd82732f66be78329b896d09cff43d1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nessa\.android\build-cache\6c1ffb365d88ec95cb1c77e961f89072f097aca5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Nessa\.android\build-cache\95e25f79ff8d558dc527ca7423a312aa27000d47\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nessa\.android\build-cache\e2183941859b9f6f457394e37124ba8931d974d2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nessa\.android\build-cache\e66639d7dc4946caf9b891b7077a5d4fb9e70b76\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nessa\.android\build-cache\67d54aca75f4a345818fa5bf08d1bedda08c60ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nessa\.android\build-cache\7da96eb94322cd91194cfe73c270d962d746390b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nessa\.android\build-cache\ba2a4ce64501b62abc54744b8aec98d91349a7ff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nessa\.android\build-cache\05d2075055699dbbb4ae3d9473ebad3c3c4b64cd\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Nessa\.android\build-cache\3932f1f30fb7fa163fd53e73ffaf9241f645473b\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,7 @@
+#Wed May 10 20:57:23 AST 2017
+base.0=D\:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_39d98cc9b183cf602c734fed53f055b5ef671cdb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d39e84abca6ebdc41b65745cb7612ebf170dfe93\\classes.dex
+base.1=D\:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d39e84abca6ebdc41b65745cb7612ebf170dfe93
+file.0=D\:\\Projects\\kulon\\kulon_android_app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_39d98cc9b183cf602c734fed53f055b5ef671cdb\\classes.dex
